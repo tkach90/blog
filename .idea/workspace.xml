@@ -4,7 +4,6 @@
     <list default="true" id="b894e44a-b991-42ad-bc9a-fd1a21758cd6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/actions/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/PostList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PostList.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +67,7 @@
       <workItem from="1571670416836" duration="12000" />
       <workItem from="1571748173598" duration="15943000" />
       <workItem from="1572331565846" duration="3695000" />
-      <workItem from="1572611728630" duration="5767000" />
+      <workItem from="1572611728630" duration="6768000" />
     </task>
     <task id="LOCAL-00001" summary="create fetchPosts action and called it through PostList component">
       <created>1571749455762</created>
@@ -112,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572879712853</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="render blog posts list">
+      <created>1573139925167</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1573139925167</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,6 +144,7 @@
     <MESSAGE value="rebuild action using redux thunk" />
     <MESSAGE value="create new reducer with definite error undefined , add reducer to combine reducers" />
     <MESSAGE value="add mapStateToProps to post list component" />
-    <option name="LAST_COMMIT_MESSAGE" value="add mapStateToProps to post list component" />
+    <MESSAGE value="render blog posts list" />
+    <option name="LAST_COMMIT_MESSAGE" value="render blog posts list" />
   </component>
 </project>
