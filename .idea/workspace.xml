@@ -4,8 +4,6 @@
     <list default="true" id="b894e44a-b991-42ad-bc9a-fd1a21758cd6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/actions/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/PostList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PostList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/UserHeader.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UserHeader.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +74,7 @@
       <workItem from="1572611728630" duration="7426000" />
       <workItem from="1573468561727" duration="6138000" />
       <workItem from="1579530351117" duration="609000" />
-      <workItem from="1579707887802" duration="2643000" />
+      <workItem from="1579707887802" duration="3763000" />
     </task>
     <task id="LOCAL-00001" summary="create fetchPosts action and called it through PostList component">
       <created>1571749455762</created>
@@ -148,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573479412905</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="delete fetch duplications using lodash uniq function">
+      <created>1579735241475</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1579735241475</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,9 +183,14 @@
     <MESSAGE value="create action for fetching users names" />
     <MESSAGE value="create User name for displaying user name" />
     <MESSAGE value="create userReducer" />
-    <option name="LAST_COMMIT_MESSAGE" value="create userReducer" />
+    <MESSAGE value="delete fetch duplications using lodash uniq function" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete fetch duplications using lodash uniq function" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="853" y="0" key="CommitChangelistDialog2" timestamp="1579735240673">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="853" y="0" key="CommitChangelistDialog2/0.0.1707.920@0.0.1707.920" timestamp="1579735240673" />
     <state width="1074" height="161" key="GridCell.Tab.0.bottom" timestamp="1579553767788">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
